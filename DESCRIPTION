@@ -1,0 +1,13 @@
+Package: dashboard.utilities
+Title: Visualization utilities for bdvis Dashboard
+Version: 0.0.0.9000
+Authors@R: person('Rahul', 'Chauhan', email = 'rahul.chauhan049@gmail.COM', role = c('cre', 'aut'))
+Description: This Package contain various reactive and interactive visulaizations 
+  which can be used later in other bdvis projects.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    shiny, 
+    golem
+RoxygenNote: 7.0.2
