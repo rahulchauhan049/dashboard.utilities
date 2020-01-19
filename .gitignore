@@ -39,4 +39,4 @@ vignettes/*.pdf
 dev
 .gitattribute
 .gitignore
-
+dashboard.utilities.Rproj
