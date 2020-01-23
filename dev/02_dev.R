@@ -7,8 +7,11 @@
 
 ## 2.1 Add modules
 ## 
-golem::add_module( name = "my_first_module" ) # Name of the module
-golem::add_module( name = "my_other_module" ) # Name of the module
+golem::add_module( name = "leaflet" ) # Name of the module
+golem::add_module( name = "yearly_chart" ) # Name of the module
+golem::add_module( name = "chooser" ) # Name of the module
+golem::add_module( name = "webVr" ) # Name of the module
+golem::add_module( name = "phylo" ) # Name of the module
 
 ## 2.2 Add dependencies
 

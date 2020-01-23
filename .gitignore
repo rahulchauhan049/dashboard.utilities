@@ -40,3 +40,4 @@ dev
 .gitattribute
 .gitignore
 dashboard.utilities.Rproj
+.DS_Store
