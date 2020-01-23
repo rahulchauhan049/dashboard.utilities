@@ -12,6 +12,12 @@ golem::add_module( name = "yearly_chart" ) # Name of the module
 golem::add_module( name = "chooser" ) # Name of the module
 golem::add_module( name = "webVr" ) # Name of the module
 golem::add_module( name = "phylo" ) # Name of the module
+golem::add_module( name = "datamaps" ) # Name of the module
+golem::add_module( name = "mapview" ) # Name of the module
+golem::add_module( name = "leaftime" ) # Name of the module
+golem::add_module( name = "leaftime.minicharts" ) # Name of the module
+golem::add_module( name = "heatmap" ) # Name of the module
+golem::add_module( name = "scroll" ) # Name of the module
 
 ## 2.2 Add dependencies
 

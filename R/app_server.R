@@ -13,5 +13,10 @@ app_server <- function(input, output,session) {
   callModule(mod_chooser_server, "mod_chooser")
   callModule(mod_webVr_server, "webvr")
   callModule(mod_phylo_server, "phylowidget")
-  
+  callModule(mod_datamaps_server, "datamaps")
+  callModule(mod_mapview_server, "mapview")
+  callModule(mod_leaftime_server, "leaftime")
+  callModule(mod_leaftime.minicharts_server, "leafchart")
+  callModule(mod_heatmap_server, "heatmap")
+  callModule(mod_scroll_server, "scroll")
 }
